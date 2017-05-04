@@ -3,7 +3,7 @@ Not torrents of these files, but you will be soon.
 
 ##  THESE ARE THE PASSWORDS!  
 
-  * Their length is in their title
+  * Their length is in their title.
   * These have had duplicates removed since the initial release.
   * I generated files by the number of times each line appeared in my analysis. Files are available for 75, 50, 25, 10, and 5 appearances.
   * Top 196 - appeared at least 75 times - these are the MOST common passwords
@@ -98,4 +98,5 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 
 Enjoy!
+
 

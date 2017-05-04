@@ -13,3 +13,7 @@
 * Added this changelog
 * Inlcuded License terms in Contributing.md
 * Added little description/commits for clarity
+
+
+### 04 May 2017
+* Made subtle changes to all files to prepare for a BFG (https://rtyley.github.io/bfg-repo-cleaner/) purge. I set it up so that if files were not from the last commit, they would not remain.

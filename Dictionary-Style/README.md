@@ -4,7 +4,7 @@ Not torrents of these files, but you will be soon.
 ## What's in these?
 
 
-### BEncyclopedia
+### BEncyclopedia.txt
   * A Large Encyclopedic, alphabetically-sorted Wordlist composed of the others in this folder, plus a few that aren't.
   * 1 GB Uncompressed
   * Max 277 MB Compressed
@@ -80,3 +80,4 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 
 
 Enjoy!
+
